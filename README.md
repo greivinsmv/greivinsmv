@@ -13,7 +13,7 @@
 
 ## About
 
-I am a Computer Engineering student interested in software development, databases and automation. My studies and practice include programming, SQL, Linux, Azure fundamentals and networking with Cisco Packet Tracer.
+I am a Computer Engineering student interested in software development, databases and automation. My studies and practice include programming, SQL, Linux, Azure fundamentals and networking.
 
 ## Technologies I study and practice
 
